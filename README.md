@@ -10,10 +10,10 @@ Questões Resolvidas
 
 * Exercício 1: Validação de Senha Forte
 Este exercício solicita ao usuário que insira uma senha e verifica se ela é forte, considerando os seguintes critérios:
-- Deve ter pelo menos 8 caracteres.
-- Deve conter pelo menos uma letra maiúscula.
-- Deve conter pelo menos um número.
-- Deve conter pelo menos um caractere especial dos seguintes: `!@#$%¨&*()_-+=`.
+  - Deve ter pelo menos 8 caracteres.
+  - Deve conter pelo menos uma letra maiúscula.
+  - Deve conter pelo menos um número.
+  - Deve conter pelo menos um caractere especial dos seguintes: `!@#$%¨&*()_-+=`.
 
 A senha só será considerada forte quando atender todos esses requisitos.
 
