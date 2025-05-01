@@ -1,0 +1,14 @@
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\obj\Debug\net9.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\obj\Debug\net9.0\Exercicio01.AssemblyInfoInputs.cache
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\obj\Debug\net9.0\Exercicio01.AssemblyInfo.cs
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\obj\Debug\net9.0\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\bin\Debug\net9.0\Exercicio01.exe
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\bin\Debug\net9.0\Exercicio01.deps.json
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\bin\Debug\net9.0\Exercicio01.runtimeconfig.json
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\bin\Debug\net9.0\Exercicio01.dll
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\bin\Debug\net9.0\Exercicio01.pdb
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\obj\Debug\net9.0\Exercicio01.dll
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\obj\Debug\net9.0\refint\Exercicio01.dll
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\obj\Debug\net9.0\Exercicio01.pdb
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\obj\Debug\net9.0\Exercicio01.genruntimeconfig.cache
+C:\Users\Lucas\MeuApp\Trabalho-Pratico-CSharp\Exercicio01\obj\Debug\net9.0\ref\Exercicio01.dll
