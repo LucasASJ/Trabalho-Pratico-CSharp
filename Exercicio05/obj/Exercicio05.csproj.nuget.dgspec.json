@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\MeuApp\\Trabalho-Pratico-CSharp\\Exercicio05\\Exercicio05.csproj": {}
+    "C:\\Users\\sleep\\Documents\\Trabalho-Pratico-CSharp\\Exercicio05\\Exercicio05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\MeuApp\\Trabalho-Pratico-CSharp\\Exercicio05\\Exercicio05.csproj": {
+    "C:\\Users\\sleep\\Documents\\Trabalho-Pratico-CSharp\\Exercicio05\\Exercicio05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\MeuApp\\Trabalho-Pratico-CSharp\\Exercicio05\\Exercicio05.csproj",
+        "projectUniqueName": "C:\\Users\\sleep\\Documents\\Trabalho-Pratico-CSharp\\Exercicio05\\Exercicio05.csproj",
         "projectName": "Exercicio05",
-        "projectPath": "C:\\Users\\Lucas\\MeuApp\\Trabalho-Pratico-CSharp\\Exercicio05\\Exercicio05.csproj",
-        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\MeuApp\\Trabalho-Pratico-CSharp\\Exercicio05\\obj\\",
+        "projectPath": "C:\\Users\\sleep\\Documents\\Trabalho-Pratico-CSharp\\Exercicio05\\Exercicio05.csproj",
+        "packagesPath": "C:\\Users\\sleep\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sleep\\Documents\\Trabalho-Pratico-CSharp\\Exercicio05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sleep\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
