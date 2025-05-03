@@ -1,0 +1,15 @@
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\bin\Debug\net9.0\Exercicio07.exe
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\bin\Debug\net9.0\Exercicio07.deps.json
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\bin\Debug\net9.0\Exercicio07.runtimeconfig.json
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\bin\Debug\net9.0\Exercicio07.dll
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\bin\Debug\net9.0\Exercicio07.pdb
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\obj\Debug\net9.0\Exercicio07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\obj\Debug\net9.0\Exercicio07.AssemblyInfoInputs.cache
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\obj\Debug\net9.0\Exercicio07.AssemblyInfo.cs
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\obj\Debug\net9.0\Exercicio07.csproj.CoreCompileInputs.cache
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\obj\Debug\net9.0\Exercicio07.sourcelink.json
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\obj\Debug\net9.0\Exercicio07.dll
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\obj\Debug\net9.0\refint\Exercicio07.dll
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\obj\Debug\net9.0\Exercicio07.pdb
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\obj\Debug\net9.0\Exercicio07.genruntimeconfig.cache
+C:\Users\sleep\Documents\Trabalho-Pratico-CSharp\Exercicio07\obj\Debug\net9.0\ref\Exercicio07.dll
