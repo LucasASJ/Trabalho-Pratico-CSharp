@@ -3,7 +3,7 @@ Trabalho Tópicos Especiais de Sistemas
 
 Alunos:
 - Lucas Antonio Salomão Jarek
-- Vinicius
+- Vinicius da Costa Silva
 - Wallacy
 
 Questões Resolvidas
