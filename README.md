@@ -1,14 +1,15 @@
 # Trabalho-Pratico-CSharp
 Trabalho Tópicos Especiais de Sistemas
 
-Alunos:
+## Alunos:
 - Lucas Antonio Salomão Jarek
 - Vinicius da Costa Silva
-- Wallacy
+- Wallacy Gabriel Alves Bandeira
+---
 
-Questões Resolvidas
+## Questões Resolvidas
 
-* Exercício 1: Validação de Senha Forte
+### * Exercício 1: Validação de Senha Forte
 Este exercício solicita ao usuário que insira uma senha e verifica se ela é forte, considerando os seguintes critérios:
   - Deve ter pelo menos 8 caracteres.
   - Deve conter pelo menos uma letra maiúscula.
@@ -17,17 +18,40 @@ Este exercício solicita ao usuário que insira uma senha e verifica se ela é f
 
 A senha só será considerada forte quando atender todos esses requisitos.
 
-* Exercício 2: Tabuada Completa
+### * Exercício 2: Tabuada Completa
 Neste exercício, o programa solicita ao usuário um número e exibe a tabuada desse número de 1 a 10, utilizando um laço `for`.
 
-* Exercício 3: Cálculo de Fatorial
+### * Exercício 3: Cálculo de Fatorial
 O programa solicita um número inteiro positivo ao usuário e calcula o fatorial desse número utilizando um laço `while`. O fatorial de um número `n` é o produto de todos os números inteiros de 1 até `n`.
 
-* Exercício 4: Conversor de Temperaturas
+### * Exercício 4: Conversor de Temperaturas
 Este exercício cria um menu interativo para conversão de temperaturas:
 1. Celsius para Fahrenheit.
 2. Fahrenheit para Celsius.
 O menu continua ativo até o usuário escolher a opção de sair (opção 3).
+
+---
+
+### * Exercício 5: Verificação de Palíndromo
+Este exercício solicita ao usuário que insira uma palavra ou frase e verifica se ela é um palíndromo, ou seja, se pode ser lida da mesma forma de trás para frente (ignorando espaços e acentos).
+
+### * Exercício 6: Cadastro de Produtos
+Solicita ao usuário o cadastro de 3 produtos, cada um com:
+- Nome
+- Preço
+- Quantidade em estoque
+
+Ao final, exibe o valor total em estoque de cada produto.
+
+### * Exercício 7: Soma de Números Pares
+Solicita ao usuário que digite 10 números inteiros e soma todos os números pares digitados.
+
+### * Exercício 8: Cálculo de IMC
+Solicita ao usuário o peso e a altura, calcula o IMC (Índice de Massa Corporal) e classifica o resultado como:
+- Abaixo do peso
+- Peso normal
+- Sobrepeso
+- Obesidade
 
 ---
 
