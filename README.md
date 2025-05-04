@@ -29,39 +29,42 @@ Este exercício cria um menu interativo para conversão de temperaturas:
 2. Fahrenheit para Celsius.
 O menu continua ativo até o usuário escolher a opção de sair (opção 3).
 
-### Explicação Detalhada dos Exercícios 9 e 10 
+---
 
-### Exercício 9: Jogo da Adivinhação  
+# Explicação Detalhada dos Exercícios 9 e 10
+
+## Exercício 9: Jogo da Adivinhação
+
 **Descrição Funcional:**  
-Implementa um jogo onde o usuário tenta adivinhar um número aleatório entre 1 e 100, recebendo dicas ("MAIOR" ou "MENOR") a cada tentativa.  
+Implementa um jogo onde o usuário tenta adivinhar um número aleatório entre 1 e 100, recebendo dicas ("MAIOR" ou "MENOR") a cada tentativa.
 
-**Passo a Passo Lógico:**
+### Passo a Passo Lógico
 
-#1️. Inicialização
+### 1️. Inicialização
 
 - Gera um número aleatório entre 1 e 100 usando `Random.Next(1, 101)`.
 - Inicializa o contador de tentativas (`tentativas = 0`).
 
-#2️. Loop Principal (`do-while`)
+### 2️. Loop Principal (`do-while`)
 
 - Solicita um palpite ao usuário e valida o input com `int.TryParse`.
 - Incrementa o contador `tentativas`.
-- Fornece feedback instantâneo:
-  - Se o palpite for menor: exibe `"MAIOR"`.
+- Fornece feedback instantâneo:  
+  - Se o palpite for menor: exibe `"MAIOR"`.  
   - Se o palpite for maior: exibe `"MENOR"`.
 
-#3️. Finalização
+### 3️. Finalização
 
 - Quando o palpite coincide com o número secreto, exibe uma mensagem de sucesso com o número de tentativas.
 
 ## Estruturas Utilizadas
 
-| Componente | Função |
-|------------|--------|
-| `Random` | Geração de números pseudoaleatórios |
-| `do-while` | Garante pelo menos uma execução do loop |
-| `int.TryParse` | Validação segura de input do usuário |
-| `if-else` | Lógica condicional para feedback (MAIOR/MENOR) |
+| Componente   | Função                                      |
+|--------------|---------------------------------------------|
+| `Random`     | Geração de números pseudoaleatórios        |
+| `do-while`   | Garante pelo menos uma execução do loop    |
+| `int.TryParse` | Validação segura de input do usuário      |
+| `if-else`    | Lógica condicional para feedback (MAIOR/MENOR) |
 
 ## Justificativa
 
@@ -73,21 +76,23 @@ Implementa um jogo onde o usuário tenta adivinhar um número aleatório entre 1
 
 - **Tratamento de erros (`TryParse`)**  
   Evita exceções ao lidar com inputs não numéricos, garantindo robustez.
+  
 
+## Exercício 10: Lista de Tarefas (To-Do List)
 
-### Exercício 10: Lista de Tarefas (To-Do List)  
 **Descrição Funcional:**  
-Permite ao usuário adicionar tarefas, marcá-las como concluídas e visualizar a lista completa.  
+Permite ao usuário adicionar tarefas, marcá-las como concluídas e visualizar a lista completa.
 
-**Passo a Passo Lógico:**  
-#1️. Estrutura de Dados
+### Passo a Passo Lógico
+
+### 1️. Estrutura de Dados
 
 Duas listas paralelas:
 
 - `tarefas (List<string>)`: armazena a descrição das tarefas.
 - `concluidas (List<bool>)`: armazena o status (true/false) das tarefas.
 
-#2️. Menu Interativo (`switch-case`)
+### 2️. Menu Interativo (`switch-case`)
 
 - **Opção 1 (Adicionar)**  
   - Captura input do usuário com `Console.ReadLine()`.
@@ -100,18 +105,18 @@ Duas listas paralelas:
 - **Opção 3 (Listar)**  
   - Exibe todas as tarefas com `[PENDENTE]` ou `[CONCLUÍDA]`.
 
-#3. Validação
+### 3️. Validação
 
 - Verifica se o índice fornecido existe e está dentro dos limites.
 
 ## Estruturas Utilizadas
 
-| Componente | Função |
-|------------|--------|
-| `List<string>` | Armazenamento dinâmico das tarefas |
-| `List<bool>` | Controle de status (concluída/pendente) |
-| `switch-case` | Navegação entre opções do menu |
-| `for` | Laço para exibir tarefas |
+| Componente   | Função                                  |
+|--------------|-----------------------------------------|
+| `List<string>` | Armazenamento dinâmico das tarefas     |
+| `List<bool>`   | Controle de status (concluída/pendente) |
+| `switch-case`  | Navegação entre opções do menu         |
+| `for`          | Laço para exibir tarefas               |
 
 ## Justificativa
 
